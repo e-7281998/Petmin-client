@@ -1,4 +1,4 @@
-### ⭐ [Petmin-backend code](https://github.com/e-7281998/Petmin-BackEnd) 
+### ⭐ [Petmin-Backend code](https://github.com/e-7281998/Petmin-BackEnd) 
 <p align="middle" >
   <img width="100px;" src="https://github.com/matgyeojo/.github/assets/49816869/ee9639e7-4eb7-45fa-a70d-971036e75d3f"/>
 </p>
